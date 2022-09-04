@@ -25,11 +25,22 @@
 
 # Work Experience
 
+![](/Images/2560px-Uber_logo_2018.svg.png)
+
+**Uber** | Feburary 2022 - Present 
+
+*Senior Program Manager, Carrier Growth*
+
+- Revamped new authority carriers acquisition workflow to native onboarding to accelerate auto-activations **growth by 20%**
+- Developed a new framework to divide carrier success ticket volume into 3 distinct buckets based on correlations analysis with acquisition metrics to redesign the headcount allocation model for the team, expected to be **10% more efficient**  
+- Collaborated with Carrier Sales team to automate compliance checks for carrier onboarding, projected to **increase onboarding velocity by 30%** 
+
+
 ![](/Images/Logo_Horizontal-2.png)
 
-**Tredence Inc.** | August 2021 - Present 
+**Tredence Inc.** | August 2021 - December 2021 
 
-*Data Analyst*
+*Product Data Analyst Intern*
 
 - Cleaned and prepped datasets using **Python & SQL** to create control and test groups for hypothesis testing 
 
@@ -54,7 +65,7 @@
 
 ![](/Images/nestle-logo-black-and-white.png)
 
-*Manager, Retail Marketing Analytics*
+*Program Manager, Retail Marketing Analytics*
 
 - Used SQL & Tableau to design BI reporting dashboards to track key business KPIs including numeric coverage, repeat purchase and stock availability, **resulting in 98% target adherence**
  
@@ -187,7 +198,7 @@
 # Resume
 
 
-[View Here](https://www.dropbox.com/s/ilsn4r3r7hm56v3/Usama%20Ather%20-%20Resume.pdf?dl=0)
+[View Here](https://docs.google.com/document/d/1yJc6OmGhgbUkmozhH8bRgcTzGpwensYN/edit)
 
 # LinkedIn
 
